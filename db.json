@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullname": "John Doe",
+            "email": "john@gmail.com",
+            "password": "JohnDoe@001",
+            "balance": 34000
+        },
+        {
+            "id": 2,
+            "fullname": "Hinata Hyuga",
+            "email": "hinata@gmail.com",
+            "password": "Hinata@001",
+            "balance": 31371.931017843763
+        }
+    ]
+}
