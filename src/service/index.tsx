@@ -9,14 +9,3 @@ export const getUsers = async () => {
     console.log('Error');
   }
 };
-
-// export const updateUserPassword = async (userId: any, newPassword: any) => {
-//   try {
-//     const response = await axios.put(`http://localhost:4001/users/${userId}`, {
-//       password: newPassword
-//     });
-//     return response.data;
-//   } catch (error) {
-//     console.error('Error updating user password:', error);
-//     throw error;
-//   }
